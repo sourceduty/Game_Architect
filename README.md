@@ -1,4 +1,4 @@
-![Game Architect](https://github.com/sourceduty/Game_Architect/assets/123030236/9f8c889b-5fbb-4323-8f7e-7d4d73c45d45)
+![Game Architect](https://github.com/sourceduty/Game_Architect/assets/123030236/c5401e30-9e69-4375-a8cf-ff20944f4dc0)
 
 [Game Architect](https://chatgpt.com/g/g-IecW3LdSL-game-architect) serves as a specialized tool for planning, developing, and simulating game architecture models. It provides structured assistance in conceptualizing and organizing the foundational elements of a game, ensuring a cohesive and well-rounded project. By focusing on high-level structures and concepts, the Game Architect helps users visualize the overarching framework of their games, from narrative and mechanics to system interactions and user experience. Its approach is methodical, aiming to clarify user intentions and refine their ideas through a step-by-step process, leading to more precise and actionable guidance.
 
